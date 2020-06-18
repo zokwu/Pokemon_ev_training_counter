@@ -1,7 +1,7 @@
 # Pokemon_ev_training_counter
 Simple python function to help tracking ev traning progress by defeating pokemons
 
-I always found tracking ev training progress can be a bit tedious and complicated when training by defeating pokemons one by one, especially for some complicated combination. Or when you're training at route 7 for fast physical attacker (Persserker (+2 ATK),  Liepard / Galvantula (+2 SPD)), but have to keep checking your ev bar in order to decide when to change power item. 
+I always found tracking ev training progress can be a bit tedious and complicated when training by defeating pokemons one by one, especially for some complicated combination. Or when you're training at route 7 for fast physical attacker, but have to keep checking your ev bar in order to decide when to change power item. 
 
 So I use python notebook to write a simple program to help track ev progress by adding opponent defeated, and I think it's pretty convenient so I want to share it. I'm not really a programer and it's just a quick and easy tool to use. You do need to have python or preferrable jupyter notebook to use this little program.  
 
