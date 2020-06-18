@@ -9,25 +9,40 @@ Some helpful information for ev training by defeating pokemon in Pokemon Sword a
 
 ***********************************************************************************
 Pokemon location:
+
 Attack: Route 7 Persserker (+2 ATK)
+
 Defence: Wild Area Torkoal / Carkoal (+2 DEF)
+
 Speed: Route 7 Liepard / Galvantula (+2 SPE)
+
 SP. ATK: Wild Area / Route 6 Maractus (+2 SPA)
+
 SP. DEF: Route 7  Thievul (+2 SPD)
+
 HP: Wild Area Wobbuffet / Diggersby / Noctowl (+2 HP)
 
 ***********************************************************************************
 Power item:
+
 Power Anklet:	Speed +8
+
 Power Band:	Special Defense +8
+
 Power Belt: Defense +8
+
 Power Bracer: Attack +8
+
 Power Lens: Special Attack +8
+
 Power Weight: HP +8
 
 ***********************************************************************************
 Pokerus will double your EV gain.
 e.g. Without pokerus, no item, defeat 1 Liepard will gain Speed EV 2
+
      Without pokerus, Power Anklet, defeat 1 Liepard will gain Speed EV 2 + 8 = 10
+     
      With pokerus, Power Anklet, defeat 1 Liepard will gain Speed EV (2 + 8) x 2 = 20
+     
      With pokerus, Power Bracer, defeat 1 Liepard will gain Speed EV 2 x 2 = 4 and Attack EV 2 x 8 = 16
