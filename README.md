@@ -42,10 +42,10 @@ Pokerus will double your EV gain.
 
 Examples:
 
-     Without pokerus, no item, defeat 1 Liepard will gain Speed EV 2
+     No pokerus, no item, defeat 1 Liepard will gain Speed EV 2
 
-     Without pokerus, Power Anklet, defeat 1 Liepard will gain Speed EV 2 + 8 = 10
+     No pokerus, with Power Anklet, defeat 1 Liepard will gain Speed EV 2 + 8 = 10
      
-     With pokerus, Power Anklet, defeat 1 Liepard will gain Speed EV (2 + 8) x 2 = 20
+     With pokerus, with Power Anklet, defeat 1 Liepard will gain Speed EV (2 + 8) x 2 = 20
      
-     With pokerus, Power Bracer, defeat 1 Liepard will gain Speed EV 2 x 2 = 4 and Attack EV 2 x 8 = 16
+     With pokerus, with Power Bracer, defeat 1 Liepard will gain Speed EV 2 x 2 = 4 and Attack EV 2 x 8 = 16
