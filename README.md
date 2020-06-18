@@ -39,7 +39,10 @@ Power Weight: HP +8
 
 ***********************************************************************************
 Pokerus will double your EV gain.
-e.g. Without pokerus, no item, defeat 1 Liepard will gain Speed EV 2
+
+Examples:
+
+     Without pokerus, no item, defeat 1 Liepard will gain Speed EV 2
 
      Without pokerus, Power Anklet, defeat 1 Liepard will gain Speed EV 2 + 8 = 10
      
